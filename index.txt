@@ -1,0 +1,127 @@
+ <!-- main start -->
+    <div class="pic">
+        <img src="static/img/ap 2.png" alt="">
+    </div>
+    <!-- main end -->
+ <!-- main start -->
+    <div class="mgc">
+        <span >
+            <h2>Why Choose Us</h2>
+            <p>Here are a few reasons why should choose us</p>
+        </span>
+    </div>
+    <!-- main end -->
+
+    <!-- main start -->
+    <div class="pd df">
+        <div class="box w bs "></div>
+        <div class="box1 w bs"></div>
+        <div class="box2 w bs"></div>
+    </div>
+    <div class="mgc">
+        <a href="" class="btn">Make Enquiry</a>
+    </div>
+    <!-- main end -->
+
+    <!-- main start -->
+    <div class="big-box df pd m">
+        <div class="two" style="padding: 6em 0em;">
+            <h2 style="color: var(--litcolor);">Why should I enroll?</h2>
+            <p style="color: var(--litcolor);">A career in programming is actually possible whether you are old or young, male or female and one of the very best reasons to become a computer programmer is the bounty of jobs out there. And because we are an increasingly technologically reliant society it is also apparent that there will be jobs in the programming sector for a long time to come. As other industries decline and cease to be, programming is growing and expanding into almost all areas of life.</p>
+            <div class="m">
+                <a href="" class="btn2">Enroll Now</a>
+            </div>
+        </div>
+        <div class="two">
+            <img src="static/img/class.png" alt="">
+        </div>
+    </div>
+    <!-- main end -->
+
+    <!-- main start -->
+    <div class="mgc">
+        <span >
+            <h2>Most Choosen Courses</h2>
+            <p>A few of our most popular courses</p>
+        </span>
+    </div>
+    <!-- main end -->
+
+    <!-- main start -->
+    <div class="dot df">
+        <div class="three"><img src="static/img/one.png" alt=""></div>
+        <div class="three"><img src="static/img/one1.png" alt=""></div>
+        <div class="three"><img src="static/img/one2.png" alt=""></div>
+    </div>
+    <div class="mgc">
+        <a href="" class="btn">View Courses</a>
+    </div>
+    <!-- main end -->
+    
+    <!-- main start -->
+    <div class="big" style="padding: 1px 100px;">
+        <div class="mgc">
+            <span >
+                <h2 style="color: var(--litcolor);">Testimonials</h2>
+                <p style="color: var(--litcolor);">What our students say about us</p>
+            </span>
+        </div>
+        <div class="df">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+    </div>
+    <!-- main end -->
+
+    <!-- main start -->
+    <h2 class="mgc" style="margin: 4em auto 1em ;">In Collaboration with</h2>
+    <div class="us">
+        <img src="static/img/line.png" alt="">
+    </div>
+    <!-- main end -->
+
+    <!-- main start -->
+    <div class="mgc">
+        <span >
+            <h2>Future Programs</h2>
+            <p>For the first time Aptech is launching futuristic cutting-edge Digital Transformation <br> Programs which include some of the Newest, Fastest growing Technologies aligned <br> with Industry 4.0 like;</p>
+        </span>
+    </div>
+    <!-- main end -->
+
+    <!-- footer start-->
+    <footer>
+        <div class="ft df">
+            <div class="f1">
+                <img src="static/img/logo.png" alt=""> <br>
+                <p class="fon">IT is required in every industry. Today, the world is moving towards <br> automation of skills, an area in which IT is urgently required. Enroll and get your skills now !!!</p>
+            </div>
+            <div class="f">
+                <h4 class="fon s">More Info</h4> <br>
+                <ul>
+                    <li><a href="" class="fon">Home</a></li> <br>
+                    <li><a href="" class="fon">About</a></li> <br>
+                    <li><a href="" class="fon">Courses</a></li> <br>
+                    <li><a href="" class="fon">Contact</a></li> <br>
+                </ul>
+            </div>
+            <div class="f">
+                <h4 class="fon s">Follow Us</h4>
+                <br>
+                <p class="fon">No 1, Joju bustop, ogbohu plaza, beside Gt bank, Ota ,Ogun state , Nigeria</p>
+            </div>
+            <div class="f">
+                <h4 class="fon s">Contact</h4> <br>
+                <p class="fon">Email: aptech.ota@gmail.com
+                    Telephone:
+                    +234 (0)808 463 6061 <br>
+                    Office Hours: br
+                    Mon - Sat | 9:00am - 5:00pm <br> GMT +1</p>
+            </div>
+        </div>
+        <div class="c">
+            <span><p style="color: var(--litcolor);">© Aptech Ota 2022. All rights reserved.</p></span>
+        </div>
+    </footer>
+    <!-- footer end -->
